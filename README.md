@@ -1,0 +1,1 @@
+# RemoteLocalizeGodot_lang_files
